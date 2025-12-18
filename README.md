@@ -24,3 +24,7 @@ youtube.com/4rft5
 The squid model and two of its textures are by Thorolhugil, however I made two of the texture variants.
 The Spawn Eggs came from @supermj767 on YT.
 ```
+
+Disclaimer:
+
+I don't know where the connected glass textures came from. If you come across this and know, please let me know so I can remove/give credit.
