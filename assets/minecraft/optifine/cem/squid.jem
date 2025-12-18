@@ -1,0 +1,121 @@
+{
+  "texture": "textures/entity/squid/squid.png",
+  "textureSize": [80, 80],
+  "models": [{
+      "part": "body",
+      "invertAxis": "xy",
+      "translate": [0, 0, 0],
+      "rotate": [0, 90, 0],
+      "boxes": [{
+          "coordinates": [-3, -8, -3, 6, 5, 6],
+          "textureOffset": [0, 27]
+        },
+        {
+          "coordinates": [0, -3.45, -7.5, 0, 12, 15],
+          "textureOffset": [0, 0]
+        },
+        {
+          "coordinates": [-4, -3.5, -4, 8, 10, 8],
+          "textureOffset": [30, 0]
+        }
+      ]
+    },
+    {
+      "part": "tentacle1",
+      "invertAxis": "xy",
+      "translate": [-5, 7, 0],
+      "rotate": [0, 0, 0],
+      "boxes": [{
+          "coordinates": [4, -14, -3.2, 1.5, 10, 1],
+          "textureOffset": [0, 43]
+        },
+        {
+          "coordinates": [4, -16, -4.6, 1.5, 15, 1],
+          "textureOffset": [24, 27]
+        },
+        {
+          "coordinates": [4, -19, -4.6, 2, 3, 1],
+          "textureOffset": [12, 54]
+        }
+      ]
+    },
+    {
+      "part": "tentacle2",
+      "invertAxis": "xy",
+      "translate": [-1, 7, -3.5],
+      "rotate": [0, 0, 0],
+      "boxes": [{
+        "coordinates": [0, -14, 0.35, 1.5, 10, 1],
+        "textureOffset": [0, 43]
+      }]
+    },
+    {
+      "part": "tentacle3",
+      "invertAxis": "xy",
+      "translate": [0, 7, -5],
+      "boxes": [{
+        "coordinates": [-0.75, -14, 1.8, 1.5, 10, 1],
+        "textureOffset": [0, 43]
+      }]
+    },
+    {
+      "part": "tentacle4",
+      "invertAxis": "xy",
+      "translate": [1, 7, -3.1],
+      "rotate": [0, 0, 0],
+      "boxes": [{
+        "coordinates": [-2, -14, 0.35, 1.5, 10, 1],
+        "textureOffset": [0, 43]
+      }]
+    },
+    {
+      "part": "tentacle5",
+      "invertAxis": "xy",
+      "translate": [0, 7, 0],
+      "rotate": [0, 0, 0],
+      "boxes": [{
+          "coordinates": [-1, -14, -3.2, 1.5, 10, 1],
+          "textureOffset": [0, 43]
+        },
+        {
+          "coordinates": [-1, -16, -4.6, 1.5, 15, 1],
+          "textureOffset": [24, 27]
+        },
+        {
+          "coordinates": [-1, -19, -4.6, 2, 3, 1],
+          "textureOffset": [12, 54]
+        }
+      ]
+    },
+    {
+      "part": "tentacle6",
+      "invertAxis": "xy",
+      "translate": [-3.95, 7, 4],
+      "rotate": [0, 0, 0],
+      "boxes": [{
+        "coordinates": [2.75, -14, -6.65, 1.5, 10, 1],
+        "textureOffset": [0, 43]
+      }]
+    },
+    {
+      "part": "tentacle7",
+      "invertAxis": "xy",
+      "translate": [0, 7, 5],
+      "rotate": [0, 0, 0],
+      "boxes": [{
+        "coordinates": [-1, -14, -8.2, 1.5, 10, 1],
+        "textureOffset": [0, 43]
+      }]
+    },
+    {
+      "part": "tentacle8",
+      "invertAxis": "xy",
+      "translate": [-0.75, 7, 4],
+      "rotate": [0, 0, 0],
+      "boxes": [{
+        "coordinates": [-0.01, -14, -7, 1.5, 10, 1],
+        "textureOffset": [0, 43]
+      }]
+    }
+  ]
+}
