@@ -27,4 +27,4 @@ The Spawn Eggs came from @supermj767 on YT.
 
 Disclaimer:
 
-I don't know where the connected glass textures came from. If you come across this and know, please let me know so I can remove/give credit.
+I don't know where the connected glass and font textures came from. If you come across this and know, please let me know so I can remove/give credit.
